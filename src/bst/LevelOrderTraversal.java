@@ -1,7 +1,7 @@
 // Iterative Queue based Java program to do level order traversal
 // of Binary Tree
  
-/* importing the inbuilt java classes required for the program */
+/* This is also Breadth First search for a tree*/
 package bst;
 import java.util.Queue;
 import java.util.LinkedList;
